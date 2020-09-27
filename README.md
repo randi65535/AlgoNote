@@ -1,11 +1,7 @@
 # AlgoNote
 
----
 # Python
 
----
 # C++
 
-
----
 # Java
